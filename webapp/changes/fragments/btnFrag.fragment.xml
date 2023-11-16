@@ -1,0 +1,11 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'>
+	<Panel headerText="Upper center">
+			<FlexBox
+				height="100px"
+				alignItems="Start"
+				justifyContent="Center">
+				<Button id="sdlfjsd" text="replacedBtns" />
+			</FlexBox>
+		</Panel>
+</core:FragmentDefinition>

@@ -1,0 +1,38 @@
+{
+	"fileName": "id_1698328128149_48_addXMLAtExtensionPoint",
+	"fileType": "change",
+	"changeType": "addXMLAtExtensionPoint",
+	"moduleName": "customer/dummylist/variantX/changes/fragments/fhfhf.fragment.xml",
+	"reference": "customer.dummylist.variantX",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/fhfhf.fragment.xml"
+	},
+	"selector": {
+		"name": "btnExtension",
+		"viewSelector": {
+			"id": "worklist",
+			"idIsLocal": true
+		}
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/customer.dummylist.variantX/changes/",
+	"projectId": "customer.dummylist.variantX",
+	"creation": "2023-10-26T13:48:48.189Z",
+	"originalLanguage": "DE",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.108.0",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1698328128150_49_composite",
+		"command": "addXMLAtExtensionPoint"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}
